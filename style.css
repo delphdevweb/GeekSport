@@ -1,0 +1,95 @@
+body{
+    padding: 0;
+    margin: 0;
+
+}
+
+header{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    height: auto;
+    width: 100%;
+    background-color:#41B5CE;
+    color: white;
+}
+
+.logo{
+    margin: 0;
+    padding: 0;
+    height: auto;
+}
+.geeklogo{
+    margin: 0;
+    padding: 0;
+    width: 100px;
+    height: auto;
+}
+
+h3{
+    margin-left: 5px;
+}
+h2{
+    position:relative;
+    top:100px;
+    right: 8px;
+}
+h4{
+    text-align: center;
+    color: #41B5CE;
+    font-weight: bold;
+}
+
+.materiel{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+
+main{
+    margin: 60px 0 0px 0;
+    width: 100%;
+    color: #41B5CE;
+    font-weight: bold;
+}
+
+main p{
+    font-size: 22px;
+    margin: 35px 0;
+    text-align: center;
+}
+.materiel div{
+    
+    height: auto;
+    width: 100px;
+   
+   
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+
+.plus{
+    width: 50px;
+    height: 100px;
+
+}
+.add{
+    height: 50px;
+    margin-left: 25%;
+}
+
+footer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    width: 240px;
+    height: auto;
+}
